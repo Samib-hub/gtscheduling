@@ -1,7 +1,7 @@
 {
   "name": "GT Scheduling",
   "short_name": "GTS",
-  "start_url": "/",
+  "start_url": "https://www.gtscheduling.com/partners",
   "display": "standalone",
   "background_color": "#ffffff",
   "description": "Sync with flight manifests and hotel bookings to generate transportation plans instantly.",
